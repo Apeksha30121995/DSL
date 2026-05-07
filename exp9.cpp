@@ -62,7 +62,7 @@ int main() {
     int choice, value;
 
     do {
-        cout << "\n--- Binary Search Tree Menu ---";
+        cout << "\n--- Binary Tree Menu ---";
         cout << "\n1. Insert Node";
         cout << "\n2. Inorder Traversal";
         cout << "\n3. Preorder Traversal";
